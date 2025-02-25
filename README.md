@@ -1,1 +1,1 @@
-# PyTorch learing project
+# PyTorch learning project
