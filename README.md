@@ -1,1 +1,1 @@
-# PyTorch learning project
+# Learning PyTorch with Colab
